@@ -10,6 +10,7 @@ You may want to use the filters however you want, as long as it's not too much. 
 ![SCANNING 02](/Assets/Scanning-02.jpg)<br>
 
 
+<br><br><br>
 
 
 ## EDITING
@@ -31,7 +32,7 @@ Remove the bad parts with the Brush tool / Spot healing brush tool, and "heal" t
 When it's done, remove the brightness layer and save as PSD.<br>
 ![EDITING 01](/Assets/Editing-final01.jpg)<br>
 
-
+<br><br><br>
 
 
 ## FILTERING
@@ -39,6 +40,7 @@ TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO<br>
 TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO<br>
 TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO<br>
 
+<br><br><br>
 
 
 ## EXPORT
@@ -64,7 +66,7 @@ ________________
 ![Export JPG 02](/Assets/Export-JPG02.jpg)<br>
 
 
-
+<br><br><br>
 
 ## FINAL
 ________________
