@@ -71,3 +71,4 @@ Make sure to save all PSD files, and compress the folder project with 7zip.<br>
 Final files:<br>
 ![FINAL](/Assets/Final.jpg)<br>
 ![FINAL](/Assets/04. Lossy export.jpg)<br>
+
