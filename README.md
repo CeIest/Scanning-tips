@@ -17,15 +17,20 @@ If the scanned images are flipped, batch convert losslessly with IrfanView with 
 
 Open all the scanned images with Photoshop and duplicate the image: we will save one for archiving purposes, and we will work on the second one.<br>
 For starters, make sure the image is straightened. To straighten images, use the ruling function from the cropping tool.<br>
-![EDITING 01](/Assets/Editing-straighten01.jpg)
+![EDITING 01](/Assets/Editing-straighten01.jpg)<br>
 
 Add a leveling layer, and balance it according to the correct colours; act based on true whites & blacks. (You may use the eye dropper)<br>
 Comparison [here](https://slow.pics/c/esz9kdg4).<br>
-![EDITING 01](/Assets/Editing-leveling01.jpg)
+![EDITING 01](/Assets/Editing-leveling01.jpg)<br>
 
 Add a brightness layer and set it to max so we can see things to fix.<br>
-Normally, the leveling might already have fixed most of things;
+Normally, the leveling might already have fixed most of things.<br>
 ![EDITING 01](/Assets/Editing-brightness01.jpg)<br>
+
+Remove the bad parts with the Brush tool / Spot healing brush tool, and "heal" the parts where there are dust.<br>
+When it's done, remove the brightness layer and save as PSD.<br>
+![EDITING 01](/Assets/Editing-final01.jpg)<br>
+
 
 
 
@@ -58,4 +63,4 @@ ________________
 ________________
 
 Make sure to save all PSD files, and compress the folder project with 7zip.<br>
-![Export PSD 01](/Assets/Export-PSD01.jpg)<br>
+![Export PSD 01](/Assets/Export-PSD01.jpg)
