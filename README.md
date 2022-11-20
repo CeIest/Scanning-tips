@@ -36,9 +36,13 @@ When it's done, remove the brightness layer and save as PSD.<br>
 
 
 ## FILTERING
-TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO<br>
-TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO<br>
-TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO<br>
+### Denoise
+TODO TODO TODO TODO TODO<br>
+### Descreen
+TODO TODO TODO TODO TODO<br>
+### Unsharp
+TODO TODO TODO TODO TODO<br>
+
 
 <br><br><br>
 
