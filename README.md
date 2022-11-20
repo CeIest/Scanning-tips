@@ -9,9 +9,30 @@ You may want to use the filters however you want, as long as it's not too much. 
 ![SCANNING 01](/Assets/Scanning-01.jpg)<br>
 ![SCANNING 02](/Assets/Scanning-02.jpg)<br>
 
+
+
+
 ## EDITING
+If the scanned images are flipped, batch convert losslessly with IrfanView with the "Fine rotation: 180.00" setting.
+
+Open all the scanned images with Photoshop and duplicate the image: we will save one for archiving purposes, and we will work on the second one.<br>
+For starters, make sure the image is straightened. To straighten images, use the ruling function from the cropping tool.<br>
+![EDITING 01](/Assets/Editing-straighten01.jpg)
+
+Add a leveling layer, and balance it according to the correct colours; act based on true whites & blacks. (You may use the eye dropper)<br>
+Comparison [here](https://slow.pics/c/esz9kdg4).<br>
+![EDITING 01](/Assets/Editing-leveling01.jpg)
+
+Add a brightness layer and set it to max so we can see things to fix.<br>
+Normally, the leveling might already have fixed most of things;
+![EDITING 01](/Assets/Editing-brightness01.jpg)<br>
+
+
 
 ## FILTERING
+
+
+
 
 ## EXPORT
 
