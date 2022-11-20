@@ -59,8 +59,16 @@ ________________
 ![Export JPG 01](/Assets/Export-JPG01.jpg)<br>
 ![Export JPG 02](/Assets/Export-JPG02.jpg)<br>
 
-### Archiving
+
+
+
+## FINAL
 ________________
 
 Make sure to save all PSD files, and compress the folder project with 7zip.<br>
-![Export PSD 01](/Assets/Export-PSD01.jpg)
+![Export PSD 01](/Assets/Export-PSD01.jpg)<br>
+
+Final files:<br>
+![FINAL](/Assets/Final.jpg)<br>
+![FINAL](/Assets/04 Lossy export.jpg)<br>
+
