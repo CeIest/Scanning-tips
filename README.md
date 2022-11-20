@@ -43,17 +43,17 @@ TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO<br>
 
 ## EXPORT
 
-### Lossless
 *All lossless files are encoded from the PSD files with IrfanView.*<br>
 ![Export OVERALL](/Assets/Export-overall.jpg)<br>
 
+### Lossless
 
-________________
 **PNG**:<br> DPI & resolution untouched, set "compression level" to 9.<br>
 ![Export PNG 01](/Assets/Export-PNG01.jpg)<br>
 
+
 ### Lossy
-________________
+
 **WEBP**:<br> 72 DPI, 7000 height, set lossless compression, "compression method" to 6.<br>
 ![Export WEBP 01](/Assets/Export-WEBP01.jpg)<br>
 ![Export WEBP 02](/Assets/Export-WEBP02.jpg)<br>
