@@ -35,14 +35,18 @@ When it's done, remove the brightness layer and save as PSD.<br>
 
 
 ## FILTERING
-
+TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO<br>
+TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO<br>
+TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO<br>
 
 
 
 ## EXPORT
 
 ### Lossless
-*All lossless files are encoded from the PSD files with IrfanView.*
+*All lossless files are encoded from the PSD files with IrfanView.*<br>
+![Export OVERALL](/Assets/Export-overall.jpg)<br>
+
 
 ________________
 **PNG**:<br> DPI & resolution untouched, set "compression level" to 9.<br>
@@ -70,4 +74,4 @@ Make sure to save all PSD files, and compress the folder project with 7zip.<br>
 
 Final files:<br>
 ![FINAL](/Assets/Final.jpg)<br>
-![FINAL](/Assets/04-Lossy-export.jpg)<br>
+![FINAL](/Assets/04-Lossyexport.jpg)<br>
