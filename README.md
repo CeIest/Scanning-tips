@@ -7,6 +7,7 @@ Else, batch crop with IrfanView.<br>
 If the colours of the output seem off, you may auto-balance the brightness and saturation, but NOT the leveling.<br>
 You may want to use the filters however you want, as long as it's not too much. (note: filters can be applied within photoshop during the editing process, so we can get clean files).<br>
 ![SCANNING 01](/Assets/Scanning-01.jpg)<br>
+![SCANNING 02](/Assets/Scanning-02.jpg)<br>
 
 ## EDITING
 
