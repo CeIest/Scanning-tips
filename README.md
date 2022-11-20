@@ -44,7 +44,9 @@ TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO<br>
 ## EXPORT
 
 ### Lossless
-*All lossless files are encoded from the PSD files with IrfanView.*
+*All lossless files are encoded from the PSD files with IrfanView.*<br>
+![Export OVERALL](/Assets/Export-overall.jpg)<br>
+
 
 ________________
 **PNG**:<br> DPI & resolution untouched, set "compression level" to 9.<br>
