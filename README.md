@@ -4,7 +4,7 @@
 1. [Scanning](#scanning)
 2. [Editing](#editing)
 3. [Filtering](#filtering)
-4. [Export](#export)
+4. [Exporting](#exporting)
 
 
 
@@ -65,7 +65,7 @@ TODO
 <br><br><br>
 
 
-## EXPORT
+## EXPORTING
 
 *All lossless files are encoded from the PSD files with IrfanView.*<br>
 
