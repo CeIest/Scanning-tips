@@ -1,4 +1,14 @@
 # Scanning-tips
+
+## Table of Contents
+1. [Scanning](#scanning)
+2. [Editing](#editing)
+3. [Filtering](#filtering)
+4. [Export](#export)
+
+
+
+
 ## SCANNING
 
 Scan at the highest DPI you can, output with a lossless format (TIFF, PNG...).<br>
@@ -46,11 +56,10 @@ When it's done, remove the brightness layer and save as PSD.<br>
 
 ## FILTERING
 ### Denoise
-TODO TODO TODO TODO TODO<br>
-### Descreen
-TODO TODO TODO TODO TODO<br>
+TODO
+
 ### Unsharp
-TODO TODO TODO TODO TODO<br>
+TODO
 
 
 <br><br><br>
@@ -82,6 +91,10 @@ ________________
 ![Export JPG 01](/Assets/Export-JPG01.jpg)<br>
 ![Export JPG 02](/Assets/Export-JPG02.jpg)<br>
 
+Note: Some descreen pattern could remain even after applying the JPG downscale. To remove them, simply use [fft-descreen](https://github.com/6o6o/fft-descreen).<br>
+Descreening doesn't work on large images.
+
+![norm-spec](https://raw.githubusercontent.com/6o6o/fft-descreen/master/images/example.png) ![spec-mask](https://raw.githubusercontent.com/6o6o/fft-descreen/master/images/result.png)
 
 <br><br><br>
 
