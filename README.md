@@ -7,7 +7,7 @@
 4. [Exporting](#exporting)
 
 
-
+**Disclaimer**: Scanning copyrighted materials is illegal and strictly prohibited, so make sure you know what you're doing beforehand.
 
 ## SCANNING
 
