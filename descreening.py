@@ -11,7 +11,7 @@ for root, _, files in os.walk('.'):
                 filename_export = pathlib.Path(file_name).stem
                 
                 
-                commandlossless = 'python ./descreen.py "' + file_name + '" "' + filename_export + '-descreened.jpg"'
+                commandlossless = 'descreen.py "' + file_name + '" "' + filename_export + '-descreened.jpg"'
                 print("Descreening " + filename_export + "...")
                 subprocess.call(commandlossless)
 
