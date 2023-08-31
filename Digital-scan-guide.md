@@ -4,6 +4,7 @@
 Yep, just as the title says.<br>
 A lot of illustrations are actually being gatekept in various expensive or limited magazines, resulting in a mass list of work considered "lost medias".<br>
 Inspired from the work of [Drop](https://yande.re/user/show/188377), I am going to show you may way of transforming some random, raw scan into a beautiful, clean digital file.<br>
+Pictures will contain a bit of censorship to respect piracy!<br>
 
 First of all, you might want your scan to be in the highest resolution possible. In my case, I like to go with **1600dpi**, where the resolution of an **A4** page would be **13599 x 18719 px**.<br>
 With that said, it is time to import the scan into photoshop.<br>
