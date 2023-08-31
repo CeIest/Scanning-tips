@@ -72,6 +72,7 @@ To do so, here are the steps:<br>
 
 
 Finally, use the denoiser of your choice directly within PS, and you're done!<br>
+DISCLAIMER: This artist does NOT use any kind of artistic noise in their illustrations. The noise we see are made by scanning, we can then safely remove it!<br>
 ![DIGITAL 09](/Assets/Digital-009.jpg)<br>
 
 Here are some comparison of the results:<br>
