@@ -28,8 +28,9 @@ for root, _, files in os.walk(src_folder):
                 filename_export = pathlib.Path(file_name).stem
                 
                 os.makedirs(f"{src_folder}/Descreen", exist_ok=True)
-                commandlossless = f'descreen.py "{src_folder}/{file_name}" "{src_folder}/Descreen/{filename_export}.jpg"'
+            
                 print(f"Descreening {filename_export}...")
+                commandlossless = f'descreen.py "{src_folder}/{file_name}" "{src_folder}/Descreen/{filename_export}.jpg"'
                 subprocess.run(commandlossless, shell=True, check=True)
 
 print("====================")
